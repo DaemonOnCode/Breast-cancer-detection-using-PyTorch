@@ -12,4 +12,4 @@ save the lives of cancer patients.
 
 My deep learning model uses PyTorch and a pre-defined 
 dataset having 569 samples and 30 features each, 
-which helps the model train with an accuracy of 97%
+which helps the model train with an accuracy of 97.37%
